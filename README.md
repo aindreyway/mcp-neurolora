@@ -6,6 +6,8 @@
 
 An intelligent MCP server that provides tools for code analysis using OpenAI API, code collection, and documentation generation.
 
+<a href="https://glama.ai/mcp/servers/j29osinm43"><img width="380" height="200" src="https://glama.ai/mcp/servers/j29osinm43/badge" alt="mcp-neurolora MCP server" /></a>
+
 ## 🚀 Installation Guide
 
 Don't worry if you don't have anything installed yet! Just follow these steps or ask your assistant to help you with the installation.
